@@ -9,8 +9,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/XDanfr/Axis"><strong>Explore the ecosystem</strong></a>
-  ·
   <a href="https://github.com/XDanfr/Aperture/releases/latest"><strong>Download Aperture</strong></a>
 </p>
 
@@ -44,7 +42,7 @@ Some features:
 </details>
 
 <details>
-<p align="left">
+<p align="centre">
   <img src="https://raw.githubusercontent.com/XDanfr/Motif/main/motif.png" width="96" height="96" alt="Motif icon — motif.png" />
 </p>
 <summary><strong>Motif — expressive, device-aware wallpapers</strong></summary>
