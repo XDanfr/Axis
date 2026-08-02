@@ -15,7 +15,7 @@
 Axis is the shared home for a growing set of expressive, device-aware apps. Each project has its own purpose, but they share the same principles: thoughtful interaction, Material 3 Expressive visual language, and software that feels personal rather than generic.
 
 
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/XDanfr/Aperture/master/Aperture.png" width="96" height="96" alt="Aperture icon — Aperture.png" />
 </p>
 <details>
