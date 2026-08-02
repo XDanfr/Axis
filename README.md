@@ -9,7 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/XDanfr/Aperture/releases/latest"><strong>Download Aperture</strong></a>
+  <a href="https://github.com/XDanfr/Aperture/releases/latest"><strong>Download Aperture</strong></a> •
+  <a href="https://discord.gg/vne5ED9xsm">Discord Server
 </p>
 
 Axis is the shared home for a growing set of expressive, device-aware apps. Each project has its own purpose, but they share the same principles: thoughtful interaction, Material 3 Expressive visual language, and software that feels personal rather than generic.
