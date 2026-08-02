@@ -10,15 +10,24 @@
 
 <p align="center">
   <a href="https://github.com/XDanfr/Aperture/releases/latest"><strong>Download Aperture</strong></a> •
-  <a href="https://discord.gg/vne5ED9xsm">Discord Server
+  <a href="https://discord.gg/vne5ED9xsm"><strong>Discord Server</strong></a>
 </p>
 
 Axis is the shared home for a growing set of expressive, device-aware apps. Each project has its own purpose, but they share the same principles: thoughtful interaction, Material 3 Expressive visual language, and software that feels personal rather than generic.
 
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://raw.githubusercontent.com/XDanfr/Aperture/master/Aperture.png" width="96" height="96" alt="Aperture icon — Aperture.png" /><br>
+      <strong>Aperture</strong>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://raw.githubusercontent.com/XDanfr/Motif/main/motif.png" width="96" height="96" alt="Motif icon — motif.png" /><br>
+      <strong>Motif</strong>
+    </td>
+  </tr>
+</table>
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/XDanfr/Aperture/master/Aperture.png" width="96" height="96" alt="Aperture icon — Aperture.png" />
-</p>
 <details>
 <summary><strong>Aperture: Material 3 media player for Android TV</strong></summary>
 
@@ -42,11 +51,8 @@ Some features:
 
 </details>
 
-<p align="centre">
-  <img src="https://raw.githubusercontent.com/XDanfr/Motif/main/motif.png" width="96" height="96" alt="Motif icon — motif.png" />
-</p>
 <details>
-<summary><strong>Motif — expressive, device-aware wallpapers</strong></summary>
+<summary><strong>Motif: expressive, device-aware wallpapers</strong></summary>
 
 <br>
 
