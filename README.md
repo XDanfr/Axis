@@ -14,14 +14,14 @@
 
 Axis is the shared home for a growing set of expressive, device-aware apps. Each project has its own purpose, but they share the same principles: thoughtful interaction, Material 3 Expressive visual language, and software that feels personal rather than generic.
 
-<details>
-<summary><strong>Aperture: Material 3 media player for Android TV</strong></summary>
-
-<br>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/XDanfr/Aperture/master/Aperture.png" width="96" height="96" alt="Aperture icon — Aperture.png" />
 </p>
+<details>
+<summary><strong>Aperture: Material 3 media player for Android TV</strong></summary>
+
+<br>
 
 Aperture is a Material 3 media player designed around the living-room screen. It brings local movies and TV shows together in a focused, remote-friendly interface.
 
@@ -41,10 +41,10 @@ Some features:
 
 </details>
 
-<details>
 <p align="centre">
   <img src="https://raw.githubusercontent.com/XDanfr/Motif/main/motif.png" width="96" height="96" alt="Motif icon — motif.png" />
 </p>
+<details>
 <summary><strong>Motif — expressive, device-aware wallpapers</strong></summary>
 
 <br>
