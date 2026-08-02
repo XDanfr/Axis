@@ -17,7 +17,7 @@
 Axis is the shared home for a growing set of expressive, device-aware apps. Each project has its own purpose, but they share the same principles: thoughtful interaction, Material 3 Expressive visual language, and software that feels personal rather than generic.
 
 <details>
-<summary><strong>📺 Aperture — Material 3 media player for Android TV</strong></summary>
+<summary><strong>Aperture: Material 3 media player for Android TV</strong></summary>
 
 <br>
 
@@ -27,7 +27,7 @@ Axis is the shared home for a growing set of expressive, device-aware apps. Each
 
 Aperture is a Material 3 media player designed around the living-room screen. It brings local movies and TV shows together in a focused, remote-friendly interface.
 
-Features include:
+Some features:
 
 - TV-optimised navigation and large-screen layouts
 - Media3-powered playback
@@ -44,17 +44,16 @@ Features include:
 </details>
 
 <details>
-<summary><strong>🎨 Motif — expressive, device-aware wallpapers</strong></summary>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/XDanfr/Motif/main/motif.png" width="96" height="96" alt="Motif icon — motif.png" />
+</p>
+<summary><strong>Motif — expressive, device-aware wallpapers</strong></summary>
 
 <br>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/XDanfr/Motif/main/motif.png" width="96" height="96" alt="Motif icon — motif.png" />
-</p>
-
 Motif is an Android app for creating expressive, device-aware Material 3 wallpapers. It treats a wallpaper as a composition: shapes, colours, images, layers, and movement working together on the canvas.
 
-Planned and core features include:
+Planned features:
 
 - Generate compositions from curated Material-inspired rules
 - Create wallpapers for custom canvas sizes, including foldable layouts
