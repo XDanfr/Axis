@@ -78,3 +78,7 @@ Planned features:
 Axis projects are built to be expressive without becoming noisy, practical without feeling plain, and consistent without forcing every app into the same mould. The ecosystem uses Material 3 as a foundation, then gives each product room to develop its own identity.
 
 More projects will be added as they take shape.
+
+## Sponsors
+These Projects wouldn't exist without Sponsorships.
+Thanks to kurohigex and fenstic for sponsoring :)
