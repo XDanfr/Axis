@@ -81,4 +81,5 @@ More projects will be added as they take shape.
 
 ## Sponsors
 These Projects wouldn't exist without Sponsorships.
-Thanks to kurohigex and fenstic for sponsoring :)
+
+![sponsors badge](https://readme-contribs.as93.net/sponsors/XDanfr)
